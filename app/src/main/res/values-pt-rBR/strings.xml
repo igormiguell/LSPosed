@@ -214,7 +214,7 @@
     <string name="menu_open_in_browser">Abrir no navegador</string>
     <string name="module_release_load_more">Mostrar versões anteriores</string>
     <string name="module_release_no_more">Não há mais versões</string>
-    <string name="repo_load_failed">Falha ao carregar o repositório de módulos: %s</string>
+    <string name="repo_load_failed">Falha ao carregar o repositório do módulo: %s</string>
     <string name="sort_upgradable_first">Atualizável primeiro</string>
     <string name="installed">Instalado</string>
     <plurals name="module_release_assets_download_count">
